@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 170076734}
-  m_IndirectSpecularColor: {r: 0.17982116, g: 0.2200029, b: 0.27685586, a: 1}
+  m_IndirectSpecularColor: {r: 0.44634527, g: 0.49101967, b: 0.5470841, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -517,6 +517,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   dogPrefab: {fileID: 8241448880393145375, guid: 3e5fe95e580114a5f8f8348678e77463, type: 3}
+  InitialisationCompteur: 3
 --- !u!4 &355618745
 Transform:
   m_ObjectHideFlags: 0
